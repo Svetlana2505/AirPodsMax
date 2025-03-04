@@ -261,7 +261,7 @@ button {
 }
 
 .audio {
-  background-image: url(./images/audio-bg.jpg);
+  background-image: url(../images/audio-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
